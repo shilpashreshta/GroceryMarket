@@ -1,0 +1,5 @@
+Agent query: Could you check if clicking on different category tabs now shows the correct filtered products? You should also see debugging logs in the browser console.
+
+Update product fetching to use correct API base URL and improved error handling.
+
+Screenshot: https://storage.googleapis.com/screenshot-production-us-central1/a39d1c3f-10b2-4122-90fc-fe3040f04d4f/1b1b3008-21bb-4e1e-aa62-c36a483c1a67.jpg
